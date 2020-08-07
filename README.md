@@ -46,4 +46,6 @@
 <code><img alt="Wordpress" width="40px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" /></code>
 
 
-
+<h3 align="center">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" width="600" height="250">
+</h3>
