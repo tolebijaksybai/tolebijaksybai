@@ -19,5 +19,7 @@
 <code><img alt="Git" width="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="Figma" width="50px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
 <code><img alt="Photoshop" width="50px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
-<code><img alt="php" width="54px" src="https://img.icons8.com/ios-filled/50/000000/php.png"/></code>
-<code><img alt="mysql" width="50px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/></code>
+<code><img alt="php" width="50px" src="https://cdn.worldvectorlogo.com/logos/php.svg"/></code>
+<code><img alt="mysql" width="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg"/></code>
+<code><img alt="atom" width="50px" src="https://cdn.worldvectorlogo.com/logos/atom-4.svg"/></code>
+<code><img alt="vscode" width="45px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
