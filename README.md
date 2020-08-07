@@ -47,5 +47,5 @@
 
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" width="600" height="250">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" width="600" height="200">
 </h3>
