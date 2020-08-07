@@ -32,4 +32,18 @@
 <code><img alt="c++" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></code>
 <code><img alt="bootstrap" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/></code>
 <code><img alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg"/></code>
-<code><img alt="adobe-xd" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"/></code>
+<code><img alt="adobe-xd" width="50px" height="45px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"/></code>
+
+
+<h3 align="center">И скоро выучу с этому навыками:</h3>
+
+<code><img alt="laravel" width="40px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" /></code>
+<code><img alt="Django" width="40px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/django-community.svg" /></code>
+<code><img alt="TypeScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
+<code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
+<code><img alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
+<code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
+<code><img alt="Wordpress" width="40px" src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" /></code>
+
+
+
