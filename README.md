@@ -12,10 +12,11 @@
 
 <h3 align="center">Я работаю с этими языками и инструментами:</h3>
 
-<code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
-<code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
-<code><img alt="Sass" width="40px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
-<code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
-<code><img alt="Git" width="40px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
-<code><img alt="Figma" width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
-<code><img alt="Photoshop" width="40px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
+<code><img alt="HTML5" width="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
+<code><img alt="CSS" width="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
+<code><img alt="Sass" width="50px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
+<code><img alt="JavaScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
+<code><img alt="Git" width="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+<code><img alt="Figma" width="50px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
+<code><img alt="Photoshop" width="50px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" /></code>
+<code><img alt="php" width="50px" src="https://img.icons8.com/ios-filled/50/000000/php.png"/></code>
