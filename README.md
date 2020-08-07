@@ -26,7 +26,8 @@
 <code><img alt="vscode" width="45px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 <code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
 <code><img alt="sublime-text" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/></code>
-<code><img alt="python" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></code></br></br>
+</br></br>
+<code><img alt="python" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></code>
 <code><img alt="vuejs" width="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
 <code><img alt="linux" width="50px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"/></code>
 <code><img alt="java" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/java-4.svg"/></code>
