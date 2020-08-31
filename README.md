@@ -1,4 +1,4 @@
-<h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби, верстальщик и веб-разработчик!
+<h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
 </h3>
 
 <h3 align="center">
