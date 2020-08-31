@@ -5,13 +5,16 @@
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" max-width="500" max-height="350">
 </h3>
 
+
+<h3 align="center">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
-‍💻 В настоящее время я работаю Frontend Developer и Backend Developer, Full-stack Developer.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
 💻 Мой номер телефон: 87081712588<br/>
 
-<h3 align="center">Я работаю с этими языками и инструментами:</h3>
+
+
+<h3 align="center">Frontend</h3>
 
 <code><img alt="HTML5" width="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
