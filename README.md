@@ -2,7 +2,7 @@
 </h3>
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" width="500" height="350">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" max-width="500" max-height="350">
 </h3>
 
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
@@ -49,5 +49,5 @@
 
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" width="600" height="200">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" max-width="600" max-height="200">
 </h3>
