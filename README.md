@@ -1,12 +1,12 @@
-<h2 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
-</h2>
+<h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
+</h3>
 
 <h3 align="center">
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" max-width="500" max-height="350">
 </h3>
 
 
-<h2 align="left">Обо мне</h2>
+<h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
@@ -14,7 +14,7 @@
 
 
 
-<h2 align="left">FrontEnd</h2>
+<h3 align="left">FrontEnd</h3>
 
 <code><img alt="HTML5" width="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
@@ -30,6 +30,7 @@
 <code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
 
 <h3 align="left">BackEnd</h3>
+
 <code><img alt="sublime-text" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/></code>
 </br></br>
 <code><img alt="python" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></code>
