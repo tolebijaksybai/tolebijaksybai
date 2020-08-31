@@ -4,14 +4,11 @@
 <h3 align="center">
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" max-width="500" max-height="350">
 </h3>
-
-
 <h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
 💻 Мой номер телефон: 87081712588<br/>
-
 
 
 <h3 align="left">FrontEnd</h3>
