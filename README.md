@@ -6,7 +6,7 @@
 </h3>
 
 
-<h3 align="center">Обо мне</h3>
+<h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">FrontEnd</h3>
+<h3 align="left">FrontEnd</h3>
 
 <code><img alt="HTML5" width="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
@@ -29,7 +29,7 @@
 <code><img alt="vscode" width="45px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 <code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
 
-<h3 align="center">BackEnd</h3>
+<h3 align="left">BackEnd</h3>
 <code><img alt="sublime-text" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"/></code>
 </br></br>
 <code><img alt="python" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/></code>
@@ -42,7 +42,7 @@
 <code><img alt="adobe-xd" width="50px" height="45px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"/></code>
 
 
-<h3 align="center">WorkFlow</h3>
+<h3 align="left">WorkFlow</h3>
 
 <code><img alt="laravel" width="40px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg" /></code>
 <code><img alt="Django" width="40px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/django-community.svg" /></code>
