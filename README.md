@@ -17,7 +17,6 @@
 <code><img alt="CSS" width="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 <code><img alt="JavaScript" width="50px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg"/></code>
-<code><img alt="TypeScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" /></code>
 <code><img alt="vuejs" width="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
 <code><img alt="Redux" width="40px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" /></code>
 <code><img alt="bootstrap" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/></code>
