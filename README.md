@@ -1,3 +1,4 @@
+<div style = "background-color: red; text-align: center;"> 
 <h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
 </h3>
 
@@ -42,3 +43,4 @@
 <h3 align="center">
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" max-width="600" max-height="200">
 </h3>
+<div> 
