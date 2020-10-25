@@ -12,7 +12,7 @@
 💻 Мой номер телефон: 87081712588<br/>
 
 
-<h3 align="left">Связаться со мной</h3>
+<h3 align="left">Соцсети и связь со мной</h3>
 
 <code><a href="https://www.instagram.com/tolebijaksybai_/?hl=ru" target="_blank"><img alt="Instagram" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></a></code>
 <code><a href="https://vk.com/tolebi2017" target="_blank"><img alt="Vkontakte" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" /></a></code>
