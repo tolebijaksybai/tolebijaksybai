@@ -56,7 +56,3 @@
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" max-width="600" max-height="200">
 </h3>
 
-## tolebijaksybai
-## Tolebi Zhaksybai
-Tolebi Zhaksybai
-tolebijaksybai
