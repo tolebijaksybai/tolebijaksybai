@@ -10,7 +10,10 @@
 💬 Спросите меня обо всем, что связано с IT <br/>
 💻 Мой номер телефон: 87081712588<br/>
 
-<h3 align="left">Соцсети и связь со мной</h3> ![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)
+<h3 align="left">Соцсети и связь со мной</h3>
+
+![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)
+
 
 <code><a href="https://www.instagram.com/tolebijaksybai_/?hl=ru" title="Instagram" target="_blank"><img alt="Instagram" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></a></code>
 <code><a href="https://vk.com/tolebi2017" target="_blank"><img alt="Vkontakte"  title="Vkontakte" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" /></a></code>
@@ -53,7 +56,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="Tolebijaksybai's github stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
-<img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=gotham" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=radical" />
