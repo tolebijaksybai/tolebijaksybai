@@ -1,13 +1,13 @@
 <h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
 </h3>
 
-<h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="350">
-</h3>
-<h3 align="left">Обо мне</h3>
+<h3 align="center"><img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="350"></h3>
+
+<h3 align="left">Говоря о личных вещах:</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
-👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
+👨‍💻‍ Сейчас я работаю над своими любимыми проектами 😉<br/>
+💬 Спросите меня о чем угодно, я рад помочь; 
 💻 Мой номер телефон: 87081712588<br/>
 
 <h3 align="left">Соцсети и связь со мной</h3>
@@ -46,4 +46,4 @@
 <code><img alt="adobe-xd" width="50px" height="45px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"/></code>
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
