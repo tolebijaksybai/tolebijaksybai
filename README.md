@@ -7,6 +7,7 @@
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами 😉<br/>
+👨🏻‍💻 Большинство моих проектов доступны на Github<br/>
 💬 Спросите меня обо всем, что связано с IT <br/>
 💻 Мой номер телефон: 87081712588<br/>
 
@@ -51,12 +52,10 @@
 
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="Tolebijaksybai's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&hide_border=true" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=gotham" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=radical" />
