@@ -1,17 +1,16 @@
-
 <h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="29px">  я Толеби веб-разработчик (FrontEnd)!
 </h3>
 
-
 <h3 align="center">
+
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-width="200" max-height="200">
+
 </h3>
 <h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами.<br/>
 💻 Мой номер телефон: 87081712588<br/>
-
 
 <h3 align="left">Соцсети и связь со мной</h3>
 
@@ -21,7 +20,6 @@
 <code><a href="https://wa.me/77081712588?text=Я%20заинтересован%20вашего%20навыки"  target="_blank"><img title="Whatsapp" alt="Whatsapp" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" /></a></code>
 <code><a href="mailto:ztolebi@mail.ru" target="_blank"><img alt="Email"  title="Email" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" /></a></code>
 <code><a href="mailto:tolebizaksybaj@gmail.com" target="_blank"><img alt="Gmail"  title="Gmail" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" /></a></code>
-
 
 <h3 align="left">FrontEnd</h3>
 
@@ -41,8 +39,6 @@
 <code><img alt="mysql" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg"/></code>
 <code><img alt="MongoDB" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/></code>
 
-
-
 <h3 align="left">WorkFlow</h3>
 <code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
 <code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
@@ -52,8 +48,6 @@
 <code><img alt="adobe-xd" width="50px" height="45px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg"/></code>
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
-
 <h3 align="center">
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" max-width="600" max-height="200">
 </h3>
-
