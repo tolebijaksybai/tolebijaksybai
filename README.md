@@ -53,6 +53,7 @@
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
 <img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'   />
 <img  src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="tolebijaksybai" />
 
