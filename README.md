@@ -54,11 +54,26 @@
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 <img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
 
-
+<h3 align="left">Моя проекты на GitHub</h3>
 <a href="https://tolebijaksybai.github.io/Gipsolit_project/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Gipsolit_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://tolebijaksybai.github.io/Delivery_Food/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Delivery_Food&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://tolebijaksybai.github.io/Delevery_Sushi_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Delevery_Sushi_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://tolebijaksybai.github.io/MartaUP_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=MartaUP_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://tolebijaksybai.github.io/UberEate_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=UberEate_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://tolebijaksybai.github.io/Pikadu_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Pikadu_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://tolebijaksybai.github.io/MartaUP_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=MartaUP_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+<a href="https://tolebijaksybai.github.io/PartFolio_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=PartFolio_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
