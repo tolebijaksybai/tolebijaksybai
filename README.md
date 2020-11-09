@@ -52,7 +52,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="Tolebijaksybai's github stats" />
 
-<img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
 <img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=gotham" />
