@@ -2,9 +2,7 @@
 </h3>
 
 <h3 align="center">
-
     <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-width="200" max-height="200">
-
 </h3>
 <h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
@@ -30,7 +28,7 @@
 <code><img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img title="jQuery" alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></code>
 <code><img title="React JS" alt="ReactJS" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></code>
-<code><img title="Vue js"alt="vuejs" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
+<code><img title="Vue js" alt="vuejs" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
 <code><img title="Redux" alt="Redux" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/></code>
 
 <h3 align="left">BackEnd</h3>
