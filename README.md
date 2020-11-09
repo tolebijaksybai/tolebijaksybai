@@ -52,10 +52,17 @@
 
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=gotham" />
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=tolebijaksybai.github.io&theme=gotham" />
+
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
