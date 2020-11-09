@@ -61,9 +61,6 @@
 <a href="https://tolebijaksybai.github.io/Delevery_Sushi_project/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Delevery_Sushi_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
-<a href="https://tolebijaksybai.github.io/MartaUP_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=MartaUP_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 <a href="https://tolebijaksybai.github.io/UberEate_project/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=UberEate_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
