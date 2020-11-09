@@ -1,4 +1,4 @@
-<h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="25px">  я Толеби веб-разработчик (FrontEnd)!
+<h3 align="center" style> Привет <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Hi.gif" width="25px">  я Толеби FrontEnd Веб-разработчик!
 </h3>
 
 <h3 align="center"><img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="250"></h3>
@@ -7,10 +7,10 @@
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами 😉<br/>
-💬 Спросите меня о чем угодно, я рад помочь<br/>
+💬 Спросите меня обо всем, что связано с IT <br/>
 💻 Мой номер телефон: 87081712588<br/>
 
-<h3 align="left">Соцсети и связь со мной ![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)</h3>
+<h3 align="left">Соцсети и связь со мной</h3> ![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)
 
 <code><a href="https://www.instagram.com/tolebijaksybai_/?hl=ru" title="Instagram" target="_blank"><img alt="Instagram" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></a></code>
 <code><a href="https://vk.com/tolebi2017" target="_blank"><img alt="Vkontakte"  title="Vkontakte" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" /></a></code>
@@ -49,3 +49,17 @@
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
+
+<img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="tolebijaksybai's github stats" />
+
+<img align="left" src="https://github-readme-stats.tolebijaksybai.anuraghazra1.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="tolebijaksybai's github stats" />
+
+<img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
+
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.tolebijaksybai.vercel.app/api/pin/?username=tolebijaksybai&repo=tolebijaksybai.github.io&theme=radical" />
