@@ -53,9 +53,9 @@
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 
-<p width="100%" align="center">
-  <a align="left" href="#"><img  src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="tolebijaksybai" /></a>
-  <a align="right" href="#" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/></a>
+<p height="180em" align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="tolebijaksybai" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
 </p>
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
