@@ -2,7 +2,7 @@
 </h3>
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-width="200" max-height="200">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-width="100" max-height="100">
 </h3>
 <h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
@@ -47,5 +47,5 @@
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/My-work.gif" alt="Coder GIF" max-width="600" max-height="200">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/Frontend.gif" alt="Coder GIF" max-width="600" max-height="200">
 </h3>
