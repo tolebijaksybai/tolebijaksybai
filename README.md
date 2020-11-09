@@ -53,10 +53,8 @@
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 
-<p height="180em" align="left">
-  <img  src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="tolebijaksybai" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
-</p>
+<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'   />
+<img  src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&icon_color=6392DF&hide=prs" alt="tolebijaksybai" />
 
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
