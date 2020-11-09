@@ -55,5 +55,10 @@
 <img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://tolebijaksybai.github.io/Gipsolit_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Gipsolit_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://tolebijaksybai.github.io/Delivery_Food/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Delivery_Food&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
