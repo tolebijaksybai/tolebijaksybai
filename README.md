@@ -7,10 +7,10 @@
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
 🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
 👨‍💻‍ Сейчас я работаю над своими любимыми проектами 😉<br/>
-💬 Спросите меня о чем угодно, я рад помочь; 
+💬 Спросите меня о чем угодно, я рад помочь<br/>
 💻 Мой номер телефон: 87081712588<br/>
 
-<h3 align="left">Соцсети и связь со мной</h3>
+<h3 align="left">Соцсети и связь со мной ![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)</h3>
 
 <code><a href="https://www.instagram.com/tolebijaksybai_/?hl=ru" title="Instagram" target="_blank"><img alt="Instagram" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" /></a></code>
 <code><a href="https://vk.com/tolebi2017" target="_blank"><img alt="Vkontakte"  title="Vkontakte" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vk-1.svg" /></a></code>
@@ -47,5 +47,5 @@
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
 <br><br>
-
+<h3 align="left">Моя статистика на GitHub 📈 </h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
