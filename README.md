@@ -50,7 +50,7 @@
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
 
-<img align="left" src="https://github-readme-stats.tolebijaksybai.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="tolebijaksybai's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="tolebijaksybai's github stats" />
 
 <img align="left" src="https://github-readme-stats.tolebijaksybai.anuraghazra1.app/api?username=tolebijaksybai&show_icons=true&include_all_commits=true&theme=radical" alt="tolebijaksybai's github stats" />
 
