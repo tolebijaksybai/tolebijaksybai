@@ -52,13 +52,10 @@
 
 <br><br>
 <h3 align="left">Моя статистика на GitHub 📈 </h3>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=gotham" alt="tolebijaksybai" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=gotham" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=gotham" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=github-readme-stats&theme=radical" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=tolebijaksybai.github.io&theme=gotham" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=tolebijaksybai.github.io&theme=radical" />
