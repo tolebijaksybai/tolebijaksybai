@@ -2,7 +2,7 @@
 </h3>
 
 <h3 align="center">
-    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-width="100" max-height="100">
+    <img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="550">
 </h3>
 <h3 align="left">Обо мне</h3>
 🏢 Мне 19 лет и я Учусь в КазНУ им.аль-Фараби.<br/>
