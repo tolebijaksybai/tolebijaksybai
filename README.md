@@ -11,6 +11,8 @@
 💬 Спросите меня обо всемб что связано с IT <br/>
 💻 Мой номер телефон: 87081712588<br/>
 
+<h3 align="left"><a href="https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills">Мой резюме в HH</a></h3>
+
 <h3 align="left">Соцсети и связь со мной</h3>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tolebijaksybai.tolebijaksybai)
