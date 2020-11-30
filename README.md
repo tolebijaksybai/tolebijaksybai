@@ -75,4 +75,9 @@
 <a href="https://tolebijaksybai.github.io/PartFolio_project/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=PartFolio_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+<a href="https://tolebijaksybai.github.io/hostel_project/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=hostel_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+
 
