@@ -39,6 +39,7 @@
 
 <h3 align="left">BackEnd</h3>
 <code><img alt="php" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/php.svg"/></code>
+<code><img alt="Laravel" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
 <code><img alt="NodeJs" width="40px" height="50px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="mysql" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg"/></code>
 <code><img alt="MongoDB" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/></code>
