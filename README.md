@@ -54,8 +54,14 @@
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
 <br><br>
-<h3 align="left">Моя статистика на GitHub 📈 </h3>
-<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
+<h3 align="left">Моя статистика на GitHub 📈 </h3><p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tolebijaksybai&theme=tokyonight" height="48">
+<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
+
+
+
+<br><br>
 
 <h3 align="left">Моя проекты на GitHub</h3>
 <a href="https://tolebijaksybai.github.io/Gipsolit_project/">
