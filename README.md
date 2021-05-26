@@ -31,7 +31,7 @@
 <code><img title="CSS3" alt="CSS3" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 <code><img title="Bootstrap" alt="bootstrap" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/></code>
 <code><img title="Sass" alt="Sass" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
-<code><img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
+<code><img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></code>
 <code><img title="jQuery" alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></code>
 <code><img title="React JS" alt="ReactJS" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></code>
 <code><img title="Vue js" alt="vuejs" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
@@ -45,7 +45,7 @@
 <code><img alt="MongoDB" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/></code>
 
 <h3 align="left">WorkFlow</h3>
-<code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+<code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /></code>
 <code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
 <code><img alt="Webpack" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"/></code>
 <code><img alt="Gulp" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"/></code>
