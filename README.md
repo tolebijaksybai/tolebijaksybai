@@ -45,8 +45,8 @@
 <code><img alt="MongoDB" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/></code>
 
 <h3 align="left">WorkFlow</h3>
-<code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git.svg" /></code>
-<code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-octocat.svg"/></code>
+<code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
+<code><img alt="github" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"/></code>
 <code><img alt="Webpack" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg"/></code>
 <code><img alt="Gulp" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/gulp.svg"/></code>
 <code><img alt="Figma" width="50px" height="40px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /></code>
