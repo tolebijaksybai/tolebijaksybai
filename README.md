@@ -4,10 +4,6 @@
 <h3 align="center"><img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="250"></h3>
 
 <h3 align="left">Говоря о личных вещах:</h3>
-🏢 Мне 20 лет и я Учусь в КазНУ им.аль-Фараби<br/>
-🏠 Я сейчас живу в Кызылорда и Алматы, Республика Казахстан.<br/>
-👨‍💻‍ Сейчас я работаю над своими любимыми проектами 😉<br/>
-👨🏻‍💻 Большинство моих проектов доступны на Github<br/>
 💬 Мой ютуб канал <a href="https://youtube.com/channel/UCz4nRdwTRV9m9PWV48k9Ptw">Technologies</a>  <br/>
 💻 Мой номер телефон: 87081712588<br/>
 
