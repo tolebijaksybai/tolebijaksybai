@@ -24,19 +24,14 @@
 <code><img title="HTML5" alt="HTML5" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img title="CSS3" alt="CSS3" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
 <code><img title="Bootstrap" alt="bootstrap" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"/></code>
-<code><img title="Sass" alt="Sass" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" /></code>
 <code><img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></code>
 <code><img title="jQuery" alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></code>
-<code><img title="React JS" alt="ReactJS" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></code>
 <code><img title="Vue js" alt="vuejs" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
-<code><img title="Redux" alt="Redux" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/redux.svg"/></code>
 
 <h3 align="left">BackEnd</h3>
 <code><img alt="php" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/php.svg"/></code>
 <code><img alt="Laravel" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
-<code><img alt="NodeJs" width="40px" height="50px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
 <code><img alt="mysql" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg"/></code>
-<code><img alt="MongoDB" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"/></code>
 
 <h3 align="left">WorkFlow</h3>
 <code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
@@ -48,7 +43,7 @@
 <code><img alt="vscode" width="45px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg"/></code>
 
 <br><br>
-<h3 align="left">Моя статистика на GitHub 📈 </h3><p align="center">
+<h3 align="left">GitHub 📈 </h3><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolebijaksybai&theme=tokyonight" height="200"><br>
   
 <img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
