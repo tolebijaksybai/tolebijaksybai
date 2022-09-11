@@ -5,7 +5,7 @@
 💻 Телефон: 87081712588<br/>
 
 
-<h3 align="left"><a href="https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills">Моя резюме в HH</a></h3>
+<h3 align="left"><a href="https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills">Резюме в HH</a></h3>
 
 <h3 align="left">Соцсети и связь со мной</h3>
 
@@ -52,7 +52,7 @@
 
 <br>
 
-<h3 align="left">Моя проекты на GitHub</h3>
+<h3 align="left">Проекты на GitHub</h3>
 <a href="https://tolebijaksybai.github.io/Gipsolit_project/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Gipsolit_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
