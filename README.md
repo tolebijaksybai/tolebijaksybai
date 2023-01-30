@@ -49,11 +49,6 @@
 <br><br>
 <h3 align="left">GitHub 📈 </h3><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolebijaksybai&theme=tokyonight" height="200"><br>
-  
-<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
-
-
 
 
 
