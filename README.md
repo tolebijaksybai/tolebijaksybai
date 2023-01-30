@@ -21,6 +21,12 @@
 <code><a href="mailto:ztolebi@mail.ru" target="_blank"><img alt="Email"  title="Email" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" /></a></code>
 <code><a href="mailto:tolebizaksybaj@gmail.com" target="_blank"><img alt="Gmail"  title="Gmail" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" /></a></code>
 
+<h3 align="left">BackEnd</h3>
+<code><img alt="PHP" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/php-1.svg"/></code>
+<code><img alt="Laravel" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
+<code><img alt="Yii2" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/yii.svg"/></code>
+<code><img alt="mysql" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg"/></code>
+
 <h3 align="left">FrontEnd</h3>
 
 <code><img title="HTML5" alt="HTML5" width="50px" height="50px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
@@ -29,11 +35,6 @@
 <code><img title="JavaScript" alt="JavaScript" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" /></code>
 <code><img title="jQuery" alt="jquery" width="50px" height="60px" src="https://cdn.worldvectorlogo.com/logos/jquery.svg" /></code>
 <code><img title="Vue js" alt="vuejs" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"/></code>
-
-<h3 align="left">BackEnd</h3>
-<code><img alt="php" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/php.svg"/></code>
-<code><img alt="Laravel" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/></code>
-<code><img alt="mysql" width="50px" height="50px" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg"/></code>
 
 <h3 align="left">WorkFlow</h3>
 <code><img alt="Git" width="50px"  height="50px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" /></code>
