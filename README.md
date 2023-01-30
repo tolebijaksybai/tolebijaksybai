@@ -50,34 +50,10 @@
 <h3 align="left">GitHub 📈 </h3><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolebijaksybai&theme=tokyonight" height="200"><br>
   
-<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
+<img src='https://github-readme-stats.vercel.app/api?username=tolebijaksybai&show_icons=true&theme=tokyonight&count_private=trueline_height=48'/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolebijaksybai&layout=compact&theme=tokyonight&icon_color=6392DF&hide=prs"/>
 
 
-
-<br>
-
-<h3 align="left">Проекты на GitHub</h3>
-<a href="https://tolebijaksybai.github.io/Gipsolit_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Gipsolit_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://tolebijaksybai.github.io/Delevery_Sushi_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Delevery_Sushi_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://tolebijaksybai.github.io/UberEate_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=UberEate_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://tolebijaksybai.github.io/Pikadu_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=Pikadu_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://tolebijaksybai.github.io/MartaUP_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=MartaUP_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://tolebijaksybai.github.io/PartFolio_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=PartFolio_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-<a href="https://tolebijaksybai.github.io/hostel_project/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=tolebijaksybai&repo=hostel_project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
 
 
