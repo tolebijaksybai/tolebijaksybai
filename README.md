@@ -5,7 +5,7 @@
 💻 Телефон: 87081712588<br/>
 
 
-<h3 align="left"><a href="https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills">Резюме в HH</a></h3>
+<h3 align="left"><a href="[https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills](https://hh.kz/resume/01a79915ff0ba597330039ed1f796b5a593474)">Резюме в HH</a></h3>
 
 <h3 align="left">Соцсети и связь со мной</h3>
 
