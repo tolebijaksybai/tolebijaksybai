@@ -1,11 +1,13 @@
 <h3 align="center"><img src="https://github.com/tolebijaksybai/tolebijaksybai/blob/master/code.gif" alt="Coder GIF" max-height="250"></h3>
 
 <h3 align="left">Говоря о личных вещах:</h3>
-💬 Ютуб канал: <a href="https://youtube.com/channel/UCz4nRdwTRV9m9PWV48k9Ptw">Technologies</a>  <br/>
-💻 Телефон: 87081712588<br/>
+Ютуб канал: <a href="https://www.youtube.com/@tolebiCodingTime">Tolebi Coding Time</a>  <br/>
+Телефон: <a href="tel:87081712588">87081712588</a> <br/>
 
-
-<h3 align="left"><a href="[https://hh.kz/resume/4eb4ca7bff084331fd0039ed1f446869516e66#key-skills](https://hh.kz/resume/01a79915ff0ba597330039ed1f796b5a593474)">Резюме в HH</a></h3>
+<h3 align="left">
+  <a href="https://hh.kz/resume/01a79915ff0ba597330039ed1f796b5a593474">
+    Резюме в HH</a>
+</h3>
 
 <h3 align="left">Соцсети и связь со мной</h3>
 
