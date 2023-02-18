@@ -50,5 +50,6 @@
 <h3 align="left">GitHub 📈 </h3><p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tolebijaksybai&theme=tokyonight" height="200"><br>
 
-
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tolebijaksybai&theme=github-compact)](https://github.com/tolebijaksybai/github-readme-activity-graph)
 
