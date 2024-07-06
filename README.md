@@ -5,7 +5,7 @@
 Телефон: <a href="tel:87081712588">87081712588</a> <br/>
 
 <h3 align="left">
-  <a href="https://hh.kz/resume/01a79915ff0ba597330039ed1f796b5a593474">
+  <a href="https://hh.kz/applicant/resumes/view?resume=01a79915ff0ba597330039ed1f796b5a593474">
     Резюме в HH</a>
 </h3>
 
